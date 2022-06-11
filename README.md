@@ -1,4 +1,4 @@
-```bash
+```csharp
 LTrashy@github
 -------------------------
 OS: ArchLinux x86_64

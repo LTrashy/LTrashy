@@ -1,8 +1,8 @@
 ```csharp
 LTrashy@github
 -------------------------
-OS: ArchLinux x86_64
-WM: Bspwm, Awesome
+OS: ArchLinux 
+WM: Bspwm, AwesomeWm
 Shell: zsh 
 Languages: Python, Java, Js, Php
 Learning: Python, Django, React Js
